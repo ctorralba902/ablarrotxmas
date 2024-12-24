@@ -1,0 +1,12 @@
+html,
+body {
+    cursor: url("cuteako64.cur"), default;
+    /* just change the cursor.ico path to your location */
+    background-image: url("bgS.png");
+}
+
+#tv {
+    width: 65%;
+    margin: auto;
+    display: block;
+}
